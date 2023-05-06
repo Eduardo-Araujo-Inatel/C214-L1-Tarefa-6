@@ -1,4 +1,4 @@
-# C214 - T5
+# C214 - T6
 
 Implementação de CRUD em `Javascript` usando a biblioteca `Mongoose` para interagir com um banco de dados `MongoDB`.
 
@@ -12,10 +12,10 @@ Instale as dependências do projeto com o seguinte comando:
 npm install
 ```
 
-Em seguida inicie o projeto:
+Em seguida realize os testes:
 
 ```bash
-npm start
+npm test
 ```
 
 ## **Endpoints**
